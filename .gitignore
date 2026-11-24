@@ -1,0 +1,24 @@
+# İşletim Sistemi ve IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# İmza Anahtarları ve Gizli Dosyalar (ASLA GIT'E EKLEMEYİN)
+*.jks
+*.keystore
+key.properties
+google-services.json
+.env
+
+# Build Çıktıları (Flutter / Android)
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+android/.gradle/
+android/local.properties
+*.apk
+*.aab
