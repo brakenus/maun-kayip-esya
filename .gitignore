@@ -22,3 +22,6 @@ android/.gradle/
 android/local.properties
 *.apk
 *.aab
+
+# Yerel Raporlar (GitHub'a gönderilmez)
+docs/
