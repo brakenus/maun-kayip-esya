@@ -20,6 +20,9 @@ build/
 .flutter-plugins-dependencies
 android/.gradle/
 android/local.properties
+.gradle/
+local.properties
+app/build/
 *.apk
 *.aab
 
